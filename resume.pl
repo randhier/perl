@@ -2,6 +2,7 @@
 # resume.pl
 # Randhier Ramlachan
 #
+# Uses the file left form fix.fl to complete the left over items
 
 $ReplicaName = "ETL-805-08";
 $ReplicaIP = "192.168.17.27";
